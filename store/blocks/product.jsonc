@@ -65,6 +65,9 @@
   },
   "sku-selector": {
     "props": {
+      "showVariationsLabels": true,
+      "initialSelection": "empty",
+      "showVariationsErrorMessage": true
     }
   }
 }
