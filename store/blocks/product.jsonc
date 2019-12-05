@@ -62,5 +62,9 @@
     "children": [
       "shipping-simulator"
     ]
+  },
+  "shipping-simulator": {
+    "props": {},
+    "children": []
   }
 }
