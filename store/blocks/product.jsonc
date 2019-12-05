@@ -45,26 +45,14 @@
     }
   },
   "flex-layout.row#qty-sku": {
-    "props": {
-      "verticalAlign": "middle",
-      "preventVerticalStretch": true
-    },
     "children": [
       "sku-selector",
       "product-quantity"
     ]
   },
   "flex-layout.row#shipping": {
-    "props": {
-      "verticalAlign": "middle",
-      "preventVerticalStretch": true
-    },
     "children": [
       "shipping-simulator"
     ]
-  },
-  "shipping-simulator": {
-    "props": {},
-    "children": []
   }
 }
